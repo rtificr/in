@@ -1,10 +1,10 @@
 [package]
 name = "in"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 authors = ["Jay Churchill"]
 license = "MIT"
-description = "Simple input macros like println!"
+description = "Python's input() for Rust"
 documentation = "https://docs.rs/in"
 repository = "https://github.com/rtificr/input"
 homepage = "https://github.com/rtificr/input"
