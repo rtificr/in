@@ -1,0 +1,8 @@
+[package]
+name = "in"
+version = "1.0.0"
+edition = "2021"
+authors = ["Jay Churchill"]
+license = "MIT"
+
+[dependencies]
